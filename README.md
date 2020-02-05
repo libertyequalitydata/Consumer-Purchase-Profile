@@ -1,2 +1,4 @@
 # Data Insights - Amazon
-The following repository will provide instructions on how to retrieve your data as well as a Jupyter Notebook on suggestions for processing the data and generating insights.
+The attached Jupyter Notebook has instructionf for downloading one's purchase data form their Amazon account.  What follows after is code for taking that csv data and turning it into insights (EDA) such that one can better understand their purchase habits.
+
+[Further explaination to come in this README.]
